@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EasyBaseScaleView">
+        <attr name="longScaleCycle" format="integer" />
+        <attr name="scaleTextSize" format="dimension" />
+        <attr name="scaleTextDefaultColor" format="reference" />
+        <attr name="scaleTextSelectedColor" format="reference" />
+        <attr name="scaleBackgroundColor" format="reference" />
+        <attr name="scaleHighlightColor" format="reference" />
+        <attr name="spacing" format="dimension" />
+    </declare-styleable>
+</resources>
